@@ -1,5 +1,5 @@
 {
-	"name": "@egjs/hammerjs",
+	"name": "hammerjs",
 	"title": "Hammer.JS",
 	"description": "A javascript library for multi-touch gestures",
 	"version": "2.0.17-snapshot",
